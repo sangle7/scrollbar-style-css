@@ -2,8 +2,6 @@
 
 > A simply way to style scrollbar in webkit browser
 
-适用于-webkit-内核浏览器
-
 ## [Demo](http://htmlpreview.github.io/?https://github.com/sangle7/scrollbar-style-css/blob/master/index.html)
 
 Find your favorite style.
