@@ -1,6 +1,6 @@
 # scrollbar-style-css
 
-> A simply way to style scrollbar in webkit browser
+> A simply way to style scrollbar in webkit browsers
 
 ## [Demo](http://htmlpreview.github.io/?https://github.com/sangle7/scrollbar-style-css/blob/master/index.html)
 
